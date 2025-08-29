@@ -1,2 +1,0 @@
-1 what is a react ?
-Ans: React is a javascript Library that allows developer  to build  scalable  fast simple web application .
